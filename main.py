@@ -1,0 +1,6 @@
+name= input('Ваше фамилия и имя?')
+age = input('Сколько Вам лет?')
+birthday = input('Ваше дата рождения?')
+print("Ваше имя", name)
+print("Вам", age)
+print("Ваше день рождения",birthday)

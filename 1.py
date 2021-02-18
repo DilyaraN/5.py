@@ -1,0 +1,6 @@
+name = input('Ваше фамилия и имя?')
+age = input('Сколько Вам лет?')
+number = input("Ваш номер телефона?")
+print("Ваше имя", name)
+print("Вам", age)
+print("Ваш номер", number)

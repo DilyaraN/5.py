@@ -1,0 +1,6 @@
+name = input("Ваше имя фамилия?")
+age = input("Сколько вам лет?")
+study = input("Где вы учитесь?")
+print("Ваше имя", name)
+print("Вам", age)
+print("Вы учитесь в", study)
